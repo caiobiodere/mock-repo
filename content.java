@@ -1,5 +1,5 @@
-public class Cxmoks {
+public class Cuvlty {
     public static void main() {
-        System.out.println("jmhdi");
+        System.out.println("griga");
     }
 }
