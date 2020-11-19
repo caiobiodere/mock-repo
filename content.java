@@ -4,5 +4,6 @@ public class Cuvlty {
         System.out.println("kksqr");
         System.out.println("tmpaw");
         System.out.println("ymmmx");
+        System.out.println("uusos");
     }
 }
